@@ -5,7 +5,11 @@
 
 
 # 💫 About Me:
-⦿ 🔭 I’m currently working on **Frontend**<br><br>⦿ 🌱 I’m currently learning **Backend**<br><br>⦿ 💬 Ask me about **html, css, javascript, bootstrap, PHP**<br><br>⦿ 📫 How to reach me **arshmittal451@gmail.com**<br><br>⦿ ⚡ Fun fact **I am funny**
+- 🔭 I’m currently working as an **Associate Software Engineer** at [Teamarcs Technologies](https://www.teamarcs.com)
+- 👨‍💻 Projects include [LIVIA Health Management System](#) & [Survey Platform](#)
+- 🌱 Currently deepening skills in **TypeScript**, **System Design**, and **Cloud (AWS)**
+- 💬 Ask me about `React.js`, `NestJS`, `MongoDB`, `Node.js`, and building full-stack apps
+- 📫 Reach me at **arshmittal451@gmail.com**
 
 
 ## 🌐 Socials:
