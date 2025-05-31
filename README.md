@@ -14,28 +14,19 @@
 ### 🛠️ Tech Stack
 
 #### Languages  
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)  
-![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)  ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)  ![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java)
 
 #### Frontend  
-![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)  
-![Redux](https://img.shields.io/badge/-Redux-764abc?style=flat-square&logo=redux)  
-![TailwindCSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css)  
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563d7c?style=flat-square&logo=bootstrap)
+![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)  ![Redux](https://img.shields.io/badge/-Redux-764abc?style=flat-square&logo=redux)  ![TailwindCSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css)  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563d7c?style=flat-square&logo=bootstrap)
 
 #### Backend  
-![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js)  
-![NestJS](https://img.shields.io/badge/-NestJS-e0234e?style=flat-square&logo=nestjs)  
-![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
+![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js)  ![NestJS](https://img.shields.io/badge/-NestJS-e0234e?style=flat-square&logo=nestjs)  ![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
 
 #### Database  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb)
 
 #### Tools & DevOps  
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)  
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)  
-![Postman](https://img.shields.io/badge/-Postman-orange?style=flat-square&logo=postman)  
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)  ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)  ![Postman](https://img.shields.io/badge/-Postman-orange?style=flat-square&logo=postman)  
 
 
 ## 🏆 GitHub Trophies
